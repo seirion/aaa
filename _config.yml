@@ -59,7 +59,7 @@ baseurl: "/aaa"
 #
 
 markdown: kramdown
-highlighter: rouge
+highlighter: rogue
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
